@@ -1,3 +1,4 @@
 Hello Everyone
 Date: July 21, 2025
 Day is Monday
+We are learning git
