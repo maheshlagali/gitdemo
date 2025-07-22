@@ -1,4 +1,4 @@
 Hello Everyone
-Date: July 21, 2025
-Day is Monday
+Date: July TewntyTwo, 2025
+Day is Tue
 We are learning git
